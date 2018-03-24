@@ -1,0 +1,17 @@
+./out_dir\Avantika\IMG_20161002_165435.png 408 401 469 478
+./out_dir\Avantika\IMG_20161002_165443.png 851 452 930 549
+./out_dir\Avantika\IMG_20170414_010137.png 206 178 556 667
+./out_dir\Avantika\IMG_20170414_110754.png 188 184 522 620
+./out_dir\Avantika\IMG_20170415_215707.png 193 179 467 557
+./out_dir\Shivam\IMG_20160901_131005.png 160 600 759 1301
+./out_dir\Shivam\IMG_20160904_070749.png 636 347 986 810
+./out_dir\Shivam\WIN_20180223_04_15_30_Pro.png 906 432 1267 877
+./out_dir\Shivam\WIN_20180223_04_15_32_Pro.png 874 416 1227 853
+./out_dir\Shivam\WIN_20180223_04_15_47_Pro.png 920 379 1294 839
+./out_dir\Vaishnavi\IMG_20160904_070209.png 312 270 613 674
+./out_dir\Vaishnavi\IMG_20160904_135343.png 460 397 529 478
+./out_dir\Vaishnavi\IMG_20161021_220511 (1).png 638 220 1183 981
+./out_dir\Vaishnavi\IMG_20161021_220511.png 104 39 195 158
+./out_dir\Vaishnavi\IMG_20170730_183952.png 368 387 533 616
+./out_dir\Vaishnavi\IMG_20170730_184002.png 238 225 435 484
+./out_dir\Vaishnavi\_DSC0178.png 832 201 1023 429

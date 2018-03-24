@@ -1,0 +1,1 @@
+./out_dir\Manpreet\WIN_20180223_12_48_47_Pro.png 764 272 1113 720

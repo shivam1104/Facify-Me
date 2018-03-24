@@ -1,0 +1,6 @@
+./out_dir\Sneha\WhatsApp Image 2018-02-25 at 12.19.09 PM.png 175 51 304 217
+./out_dir\Sneha\WhatsApp Image 2018-02-25 at 12.20.48 PM.png 312 137 500 382
+./out_dir\Sneha\WhatsApp Image 2018-02-25 at 12.21.38 PM.png 289 132 363 230
+./out_dir\Sneha\WhatsApp Image 2018-02-25 at 12.22.37 PM (1).png 140 414 180 465
+./out_dir\Sneha\WhatsApp Image 2018-02-25 at 12.22.37 PM.png 140 414 180 465
+./out_dir\Sneha\WhatsApp Image 2018-02-25 at 12.24.29 PM.png 246 216 592 694

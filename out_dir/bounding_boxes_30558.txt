@@ -1,0 +1,4 @@
+./out_dir\Manpreet\BeautyPlus_20171214172742_save.png 377 207 706 632
+./out_dir\Manpreet\BeautyPlus_20171214172915_save.png 382 121 709 587
+./out_dir\Manpreet\IMG_20171028_174848 (1).png 708 718 1333 1578
+./out_dir\Manpreet\IMG_20171028_174848.png 708 718 1333 1578
